@@ -1,0 +1,17 @@
+Value of objective function: 4.00000000
+
+Actual values of the variables:
+y_1                             1
+y_2                             1
+y_3                             1
+y_4                             1
+x_1_1                           1
+x_2_2                           1
+x_3_3                           1
+x_4_1                           1
+x_5_2                           1
+x_6_2                           1
+x_7_3                           1
+x_8_4                           1
+x_9_3                           1
+x_10_4                          1
